@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/RenderAsDialog/v15/Server/sqlite3
+/RenderAsDialog/bin/Debug
+/RenderAsDialog/obj/Debug/App.g.cs
+/RenderAsDialog/obj/Debug/App.g.i.cs
+/RenderAsDialog/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/RenderAsDialog/obj/Debug/MainWindow.g.i.cs
+/RenderAsDialog/obj/Debug/MainWindow.g.cs
+/RenderAsDialog/obj/Debug/MainWindow.baml
+/RenderAsDialog/obj/Debug
+/.vs/RenderAsDialog/v15/.suo
